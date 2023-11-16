@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366881580070",
+    "project_id": "talkativeness1",
+    "storage_bucket": "talkativeness1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366881580070:android:8ac64be6a9834ee8b972e7",
+        "android_client_info": {
+          "package_name": "com.avi.talkativeness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Y_HrHMQSBjlAiUctOo14Uc--fyGk5o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
